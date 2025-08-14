@@ -22,10 +22,10 @@ title: Annika Law Jie Yu
     <h2>Education</h2>
     <ul>
       <li><strong>B.Sc (Hons), Data Science and Analytics</strong><br>
-          _National University of Singapore_ | Aug 2022 – May 2026
+          <em>National University of Singapore</em> | <u>Aug 2022 – May 2026</u>
       </li>
       <li><strong>Spring Exchange</strong><br>
-          _Technical University of Denmark_ | Jan 2025 – Jun 2025<br>
+          <em>Technical University of Denmark</em>em> | <u>Jan 2025 – Jun 2025<u>
           Took selected M.Sc courses
       </li>
     </ul>
@@ -41,4 +41,34 @@ title: Annika Law Jie Yu
     </ul>
   </div>
 
+  <div class="project">
+    <h3>Community Keyword Analysis</h3>
+    <div class="tech-stack">
+      <span class="tech-tag">Python</span>
+      <span class="tech-tag">Pandas</span>
+      <span class="tech-tag">WordCloud</span>
+    </div>
+    <ul>
+      <li>Consolidated <strong>11,000+ abstracts</strong> into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
+      <li>Applied <strong>TF-IDF</strong> to extract distinctive keywords for each community and compared results with term frequency analysis</li>
+      <li>Generated <strong>15 community-specific word clouds</strong> and profiled top authors to interpret differences between sub-communities</li>
+    </ul>
+  </div>
+
+  <div class="project">
+    <h3>Community Detection in Global Pop Artists Collaboration Networks</h3>
+    <div class="tech-stack">
+      <span class="tech-tag">Python</span>
+      <span class="tech-tag">NetworkX</span>
+      <span class="tech-tag">Louvain Algorithm</span>
+      <span class="tech-tag">Matplotlib</span>
+      <span class="tech-tag">Pandas</span>
+    </div>
+    <ul>
+      <li>Constructed yearly weighted collaboration networks (<strong>2017-2019</strong>) from artist co-occurrence datasets</li>
+      <li>Created comparative network visualizations with <strong>node size reflecting degree</strong> and <strong>color representing community</strong></li>
+      <li>Built higher-level community-to-community collaboration graph highlighting <strong>core clusters</strong></li>
+    </ul>
+  </div>
 </div>
+
