@@ -50,7 +50,8 @@ title: Annika Law Jie Yu
   <ul>
     <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
     <li>Applied TF-IDF to extract distinctive keywords for each community and compared results with term frequency analysis</li>
-    <li>Generated 15 community-specific word clouds and profiled top authors to interpret differences between sub-communities</li>
+    <li>Generated 10 community-specific word clouds and profiled top authors to interpret differences between sub-communities</li>
+    <li><a href="notebooks/02467_assignment2.ipynb" target="_blank">View Notebook</a></li>
   </ul>
 
   <h3>
@@ -61,6 +62,7 @@ title: Annika Law Jie Yu
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
     <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
+    <li><a href="notebooks/explainer.ipynb" target="_blank">View Notebook</a></li>
   </ul>
 
 
