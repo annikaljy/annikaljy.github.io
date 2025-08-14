@@ -10,24 +10,28 @@ title: Annika Law Jie Yu
     <img src="/assets/photo.jpg" alt="Annika" style="width:100%; border-radius:50%; object-fit:cover;">
     <h2>Annika LAW</h2>
     <p>✉️ <a href="mailto:annika@u.nus.edu">annika@u.nus.edu</a></p>
+    
     <h2>Skills</h2>
     <p>Python, R, Java, SQL</p>
+    
     <h2>Technologies</h2>
     <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
     
-    <h2>Education</h2>
+    <h2 style="text-decoration: underline;">Education</h2>
     <ul style="padding-left: 20px; margin-top: 0;">
-      <li style="margin-bottom: 15px;">
+      <li style="margin-bottom: 12px;">
         <strong>B.Sc (Hons), Data Science and Analytics</strong><br>
         National University of Singapore | <em>Aug 2022 – May 2026</em>
       </li>
-      <li>
+      <li style="margin-bottom: 12px;">
         <strong>Spring Exchange</strong><br>
         Technical University of Denmark | <em>Jan 2025 – Jun 2025</em><br>
-        Took selected M.Sc courses
+        <span style="font-style: italic;">Took selected M.Sc courses</span>
       </li>
     </ul>
   </div>
+</div>
+
 
   <!-- Right column: main content -->
 <div style="flex: 3;">
