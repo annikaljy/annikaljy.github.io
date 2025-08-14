@@ -14,7 +14,7 @@ title: Annika Law Jie Yu
   </div>
 </div>
 
-<!-- Example: Education Section -->
+
 ## Education
 
 - **B.Sc (Hons), Data Science and Analytics**  
