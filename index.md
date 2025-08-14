@@ -27,8 +27,7 @@ title: Annika Law Jie Yu
         Took selected M.Sc courses
       </li>
     </ul>
-  </div>
-  </div>
+</div>
 
   <!-- Right column: main content -->
 <div style="flex: 3;">
