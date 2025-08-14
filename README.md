@@ -2,9 +2,12 @@
 ### Technologies: PowerBI, Tableau, Microsoft Suite, Adobe Suite
 
 ## Education
-- B.Sc (Hons), Data Science and Analytics | National University of Singapore (_Aug 2022 - May 2026_)								       		
-- Spring Exchange	| Technical University of Denmark (_Jan 2025 - Jun 2025_)
-  - Took M.Sc courses         		
+- **B.Sc (Hons), Data Science and Analytics**  
+  National University of Singapore | _Aug 2022 – May 2026_
+
+- **Spring Exchange**  
+  Technical University of Denmark | _Jan 2025 – Jun 2025_  
+  - Took selected M.Sc courses
 
 ## Projects
 ### Computational Social Scientists Network Analysis
@@ -22,6 +25,13 @@ downstream text analysis
 analysis
 - Generated 15 community-specific word clouds and profiled top authors to interpret differences between
 sub-communities
+
+### Community Detection in Global Pop Artists Collaboration Networks
+#### Python, NetworkX, Louvain Algorithm, Matplotlib, Pandas
+- Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets
+- Created comparative network visualizations across the years, with node size reflecting degree and color
+representing community
+- Built a higher level community-to-community collaboration graph highlighting core clusters
 
 ## Work Experience
 **Regional Data Analyst Intern | Shiseido**
