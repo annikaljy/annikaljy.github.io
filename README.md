@@ -1,4 +1,4 @@
-#### Technical Skills: Python, R, Java, SQL
+### Technical Skills: Python, R, Java, SQL
 ### Technologies: PowerBI, Tableau, Microsoft Suite, Adobe Suite
 
 ## Education
