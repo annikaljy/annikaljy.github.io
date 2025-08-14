@@ -14,6 +14,9 @@ title: Annika Law Jie Yu
     <p>Python, R, Java, SQL</p>
     <h2>Technologies</h2>
     <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
+    <h2>Education</h2>
+    <p>B.Sc (Hons), Data Science and Analytics</p>
+    <p>National University of Singapore</p>
   </div>
   
   
