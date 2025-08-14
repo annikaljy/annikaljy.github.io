@@ -67,7 +67,11 @@ title: Annika Law Jie Yu
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
     <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
-    <li><a href="notebooks/explainer.ipynb" target="_blank">View Notebook</a></li>
+    <li>
+      <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/explainer.ipynb" target="_blank">
+        View Notebook
+      </a>
+    </li>
   </ul>
 
 
