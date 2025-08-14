@@ -15,8 +15,8 @@ title: Annika Law Jie Yu
     <h2>Technologies</h2>
     <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
     
-    <h2 style="text-decoration: underline; margin-top: 20px;">Education</h2>
-    <ul style="padding-left: 20px;">
+    <h2>Education</h2>
+    <ul style="padding-left: 20px; margin-top: 0;">
       <li style="margin-bottom: 15px;">
         <strong>B.Sc (Hons), Data Science and Analytics</strong><br>
         National University of Singapore | <em>Aug 2022 – May 2026</em>
@@ -27,7 +27,7 @@ title: Annika Law Jie Yu
         Took selected M.Sc courses
       </li>
     </ul>
-</div>
+  </div>
 
   <!-- Right column: main content -->
 <div style="flex: 3;">
