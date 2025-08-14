@@ -18,45 +18,51 @@ title: Annika Law Jie Yu
   </div>
 
   <!-- Right column: main content -->
-  <div style="flex: 3;">
-    <h2>Education</h2>
-    <ul>
-      <li><strong>B.Sc (Hons), Data Science and Analytics</strong><br>
-          National University of Singapore | <em></em>Aug 2022 – May 2026</em>
-      </li>
-      <li><strong>Spring Exchange</strong><br>
-          <Technical University of Denmark | <em>Jan 2025 – Jun 2025</em>
-          Took selected M.Sc courses
-      </li>
-    </ul>
+<div style="flex: 3;">
 
-    <h2>Projects</h2>
+  <!-- Education -->
+  <h2 style="text-decoration: underline;">Education</h2>
+  <ul>
+    <li><strong>B.Sc (Hons), Data Science and Analytics</strong><br>
+        National University of Singapore | <em>Aug 2022 – May 2026</em>
+    </li>
+    <li><strong>Spring Exchange</strong><br>
+        Technical University of Denmark | <em>Jan 2025 – Jun 2025</em><br>
+        Took selected M.Sc courses
+    </li>
+  </ul>
 
-    <h3>Computational Social Scientists Network Analysis</h3>
-    <p><strong>Python, NetworkX, Pandas, Louvain-algorithm</strong></p>
-    <ul>
-      <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
-      <li>Applied Louvain algorithm to detect research communities and computed network metrics including density, connectivity, and degree distribution</li>
-      <li>Identified top authors by centrality measures and analyzed their influence within the network</li>
-    </ul>
-    
-    <h3>Community Keyword Analysis</h3>
-    <p><strong>Python, Pandas, WordCloud</strong></p>
-    <ul>
-      <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
-      <li>Applied TF-IDF to extract distinctive keywords for each community and compared results with term frequency analysis</li>
-      <li>Generated 15 community-specific word clouds and profiled top authors to interpret differences between sub-communities</li>
-    </ul>
-    
-    <h3>Community Detection in Global Pop Artists Collaboration Networks</h3>
-    <p><strong>Python, NetworkX, Louvain Algorithm, Matplotlib, Pandas</strong></p>
-    <ul>
-      <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
-      <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
-      <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
-    </ul>
+  <!-- Projects -->
+  <h2 style="text-decoration: underline;">Projects</h2>
 
-  </div>
+  <h3>
+    Computational Social Scientists Network Analysis 
+    <span style="font-size: 0.9em; font-style: italic;">| Python, NetworkX, Pandas, Louvain-algorithm</span>
+  </h3>
+  <ul>
+    <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
+    <li>Applied Louvain algorithm to detect research communities and computed network metrics including density, connectivity, and degree distribution</li>
+    <li>Identified top authors by centrality measures and analyzed their influence within the network</li>
+  </ul>
+
+  <h3>
+    Community Keyword Analysis 
+    <span style="font-size: 0.9em; font-style: italic;">| Python, Pandas, WordCloud</span>
+  </h3>
+  <ul>
+    <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
+    <li>Applied TF-IDF to extract distinctive keywords for each community and compared results with term frequency analysis</li>
+    <li>Generated 15 community-specific word clouds and profiled top authors to interpret differences between sub-communities</li>
+  </ul>
+
+  <h3>
+    Community Detection in Global Pop Artists Collaboration Networks 
+    <span style="font-size: 0.9em; font-style: italic;">| Python, NetworkX, Louvain Algorithm, Matplotlib, Pandas</span>
+  </h3>
+  <ul>
+    <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
+    <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
+    <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
+  </ul>
 
 </div>
-
