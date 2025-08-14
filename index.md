@@ -51,7 +51,12 @@ title: Annika Law Jie Yu
     <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
     <li>Applied TF-IDF to extract distinctive keywords for each community and compared results with term frequency analysis</li>
     <li>Generated 10 community-specific word clouds and profiled top authors to interpret differences between sub-communities</li>
-    <li><a href="notebooks/02467_assignment2.ipynb" target="_blank">View Notebook</a></li>
+    <li>
+      <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/02467_assignment2.ipynb" target="_blank">
+        View Notebook
+      </a>
+    </li>
+
   </ul>
 
   <h3>
