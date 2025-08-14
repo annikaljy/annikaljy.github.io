@@ -8,7 +8,7 @@ title: Annika Law Jie Yu
   <!-- Left column: photo + contact -->
   <div style="flex: 1; max-width: 200px;">
     <img src="/assets/photo.jpg" alt="Annika Law Jie Yu" style="width:100%; border-radius:50%; object-fit:cover;">
-    <h2>Contact</h2>
+    <h2>Annika LAW Jie Yu</h2>
     <p>📞 +65 9123 4567</p>
     <p>✉️ <a href="mailto:annika@u.nus.edu">annika@u.nus.edu</a></p>
     <h2>Skills</h2>
