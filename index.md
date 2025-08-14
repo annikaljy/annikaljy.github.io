@@ -15,28 +15,15 @@ title: Annika Law Jie Yu
     <h2>Technologies</h2>
     <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
     <h2>Education</h2>
-    <p> - B.Sc (Hons), Data Science and Analytics — National University of Singapore </p>
-    <p> - Spring Exchange Programme, Technical University of Denmark — Took M.Sc level courses  </p>
+    <p> - B.Sc (Hons), Data Science and Analytics — National University of Singapore (2022-2026)</p>
+    <p> - Spring Exchange Programme — Technical University of Denmark, took M.Sc level courses (2025)  </p>
   </div>
   
   
   <!-- Right column: main content -->
 <div style="flex: 3;">
-
-  <!-- Education -->
-  <h2 style="text-decoration: underline;">Education</h2>
-  <ul>
-    <li><strong>B.Sc (Hons), Data Science and Analytics</strong><br>
-        National University of Singapore | <em>Aug 2022 – May 2026</em>
-    </li>
-    <li><strong>Spring Exchange</strong><br>
-        Technical University of Denmark | <em>Jan 2025 – Jun 2025</em><br>
-        Took selected M.Sc courses
-    </li>
-  </ul>
-
   <!-- Projects -->
-  <h2 style="text-decoration: underline;">Projects</h2>
+  <h1 style="text-decoration: underline;">Projects</h1>
 
   <h3>
     Computational Social Scientists Network Analysis |
