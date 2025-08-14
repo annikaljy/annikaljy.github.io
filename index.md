@@ -36,8 +36,8 @@ title: Annika Law Jie Yu
   <h2 style="text-decoration: underline;">Projects</h2>
 
   <h3>
-    Computational Social Scientists Network Analysis 
-    <span style="font-size: 0.9em; font-style: italic;">| Python, NetworkX, Pandas, Louvain-algorithm</span>
+    Computational Social Scientists Network Analysis |
+    <span style="font-size: 0.9em; font-style: italic;"> Python, NetworkX, Pandas, Louvain-algorithm</span>
   </h3>
   <ul>
     <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
@@ -46,8 +46,8 @@ title: Annika Law Jie Yu
   </ul>
 
   <h3>
-    Community Keyword Analysis 
-    <span style="font-size: 0.9em; font-style: italic;">| Python, Pandas, WordCloud</span>
+    Community Keyword Analysis |
+    <span style="font-size: 0.9em; font-style: italic;"> Python, Pandas, WordCloud</span>
   </h3>
   <ul>
     <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
@@ -56,8 +56,8 @@ title: Annika Law Jie Yu
   </ul>
 
   <h3>
-    Community Detection in Global Pop Artists Collaboration Networks 
-    <span style="font-size: 0.9em; font-style: italic;">| Python, NetworkX, Louvain Algorithm, Matplotlib, Pandas</span>
+    Community Detection in Global Pop Artists Collaboration Networks |
+    <span style="font-size: 0.9em; font-style: italic;"> Python, NetworkX, Louvain Algorithm, Matplotlib, Pandas</span>
   </h3>
   <ul>
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
