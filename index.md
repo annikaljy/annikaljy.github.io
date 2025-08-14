@@ -8,7 +8,7 @@ title: Annika Law Jie Yu
   <!-- Left column: photo + contact -->
   <div style="flex: 1; max-width: 200px;">
     <img src="/assets/photo.jpg" alt="Annika Law Jie Yu" style="width:100%; border-radius:50%; object-fit:cover;">
-    <h2>Annika LAW Jie Yu</h2>
+    <h2>Annika LAW</h2>
     <p>📞 +65 9123 4567</p>
     <p>✉️ <a href="mailto:annika@u.nus.edu">annika@u.nus.edu</a></p>
     <h2>Skills</h2>
@@ -64,5 +64,39 @@ title: Annika Law Jie Yu
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
     <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
   </ul>
+
+<!-- Work Experience -->
+<h2 style="text-decoration: underline;">Work Experience</h2>
+
+<h3>
+  Regional Data Analyst Intern | Apr 2024 - Aug 2024
+</h3>
+<p><strong>Shiseido</strong></p>
+<ul>
+  <li>Extracted and cleaned 100,000+ product data using SQL across 10 countries to provide an overview of key trends</li>
+  <li>Prepared high level analysis reports with Tableau and PowerBI to create visually engaging dashboards</li>
+  <li>Analyzed customer lifecycle performance, giving actionable comments to improve customer lifecycle and retention</li>
+</ul>
+
+<h3>
+  Data Analyst Intern (Leasing/Finance) | Jan 2024 - Apr 2024
+</h3>
+<p><strong>Jewel Changi Airport</strong></p>
+<ul>
+  <li>Assisted in data extraction and management for the leasing department</li>
+  <li>Prepared high level analysis reports with PowerBI and Excel by extracting and transforming data to demonstrate key information for decision making</li>
+  <li>Assisted in tabulating monthly financial reports and gathering inputs for gross turnover variance analysis</li>
+</ul>
+
+<h3>
+  Coding Instructor | Jul 2023 - May 2024
+</h3>
+<p><strong>Champ Code Academy</strong></p>
+<ul>
+  <li>Conducted classes with up to 10+ children of all ages to learn simple coding through interactive platforms like Minecraft</li>
+  <li>Encouraged students’ critical thinking and discussion using a variety of teaching techniques</li>
+  <li>Instructed students individually and in groups, utilising various teaching methods</li>
+</ul>
+
 
 </div>
