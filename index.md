@@ -15,7 +15,8 @@ title: Annika Law Jie Yu
     <h2>Technologies</h2>
     <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
     <h2>Education</h2>
-    <p>B.Sc (Hons), Data Science and Analytics — National University of Singapore </p>
+    <p> - B.Sc (Hons), Data Science and Analytics — National University of Singapore </p>
+    <p> - Spring Exchange Programme, Technical University of Denmark — Took M.Sc level courses  </p>
   </div>
   
   
