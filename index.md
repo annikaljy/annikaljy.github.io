@@ -2,46 +2,17 @@
 layout: default
 title: Annika Law Jie Yu
 ---
-
-<div style="display: flex; gap: 40px; align-items: flex-start;">
-
-  <!-- Sidebar: photo + contact + skills + education -->
-  <div style="flex: 0 0 220px; display: flex; flex-direction: column; align-items: center;">
-
-    <img src="/assets/photo.jpg" alt="Annika" style="width:150px; height:150px; border-radius:50%; object-fit:cover; margin-bottom: 15px;">
-    
-    <h2 style="margin: 5px 0;">Annika LAW</h2>
-    <p style="margin: 3px 0;">✉️ <a href="mailto:annika@u.nus.edu">annika@u.nus.edu</a></p>
-    
-    <h3 style="text-decoration: underline; margin-top: 20px; margin-bottom: 5px;">Skills</h3>
-    <p style="margin: 0; text-align: center;">Python, R, Java, SQL</p>
-    
-    <h3 style="text-decoration: underline; margin-top: 15px; margin-bottom: 5px;">Technologies</h3>
-    <p style="margin: 0; text-align: center;">PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
-    
-    <h3 style="text-decoration: underline; margin-top: 15px; margin-bottom: 5px;">Education</h3>
-    <ul style="padding-left: 20px; margin-top: 0; text-align: left;">
-      <li style="margin-bottom: 12px;">
-        <strong>B.Sc (Hons), Data Science and Analytics</strong><br>
-        National University of Singapore | <em>Aug 2022 – May 2026</em>
-      </li>
-      <li>
-        <strong>Spring Exchange</strong><br>
-        Technical University of Denmark | <em>Jan 2025 – Jun 2025</em><br>
-        <span style="font-style: italic;">Took selected M.Sc courses</span>
-      </li>
-    </ul>
+  <!-- Left column: photo + contact -->
+  <div style="flex: 1; max-width: 200px;">
+    <img src="/assets/photo.jpg" alt="Annika" style="width:100%; border-radius:50%; object-fit:cover;">
+    <h2>Annika LAW</h2>
+    <p>✉️ <a href="mailto:annika@u.nus.edu">annika@u.nus.edu</a></p>
+    <h2>Skills</h2>
+    <p>Python, R, Java, SQL</p>
+    <h2>Technologies</h2>
+    <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
   </div>
-
-  <!-- Main content goes here -->
-  <div style="flex: 1;">
-    <!-- Add your main content here -->
-  </div>
-
-</div>
-
-
-
+  
   <!-- Right column: main content -->
 <div style="flex: 3;">
 
