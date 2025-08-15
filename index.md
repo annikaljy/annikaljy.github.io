@@ -79,7 +79,6 @@ title: Annika Law Jie Yu
       > python, networkx, pandas, louvain-algorithm, matplotlib
     </div>
   <ul>
-    
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
     <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
@@ -89,6 +88,7 @@ title: Annika Law Jie Yu
       </a>
     </li>
   </ul>
+  
   <img src="/assets/artist.png" alt="Visualization" style="width:100%; max-width:600px; display:block; margin-top: 10px; border-radius:6px;">
 
 
