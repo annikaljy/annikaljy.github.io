@@ -33,7 +33,7 @@ title: Annika Law Jie Yu
             font-size: 0.9em; 
             display: inline-block; 
             margin-top: 0;">
-      Python, NetworkX, Pandas, Louvain-algorithm
+      > python, networkx, pandas, louvain-algorithm
     </div>
 
   <ul>
@@ -47,10 +47,16 @@ title: Annika Law Jie Yu
     </li>
   </ul>
 
-  <h3>
-    Community Keyword Analysis |
-    <span style="font-size: 0.9em; font-style: italic;"> Python, Pandas, WordCloud</span>
-  </h3>
+  <h3 style="margin-bottom: 0.2em;">Community Keyword Analysis</h3>
+      <div style="font-family: 'Courier New', Courier, monospace; 
+            background-color: #f6f8fa; 
+            padding: 0.1em 0.4em; 
+            border-radius: 6px; 
+            font-size: 0.9em; 
+            display: inline-block; 
+            margin-top: 0;">
+      > python, pandas, wordcloud
+    </div>
   <ul>
     <li>Consolidated 11,000+ abstracts into community-specific corpora using Louvain clustering assignments for downstream text analysis</li>
     <li>Applied TF-IDF to extract distinctive keywords for each community and compared results with term frequency analysis</li>
