@@ -36,7 +36,6 @@ title: Annika Law Jie Yu
       > python, networkx, pandas, louvain-algorithm
     </div>
   <ul>
-    
     <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
     <li>Applied Louvain algorithm to detect research communities and computed network metrics including density, connectivity, and degree distribution</li>
     <li>Identified top authors by centrality measures and analyzed their influence within the network</li>
