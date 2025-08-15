@@ -81,7 +81,7 @@ def main():
     
     pd.DataFrame(community_data).to_csv('community_assignments.csv', index=False)
     
-    # Save to JSON (now includes community information)
+    # save to JSON
     graph_data = json_graph.node_link_data(G)
     with open('collaboration_network.json', 'w') as json_file:
         json.dump(graph_data, json_file, indent=4)
