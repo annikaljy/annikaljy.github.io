@@ -42,7 +42,7 @@ title: Annika Law Jie Yu
     <li>Identified top authors by centrality measures and analyzed their influence within the network</li>
     <li>
       <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/02467_assignment1.md" target="_blank">
-        View Notebook
+        View Code
       </a>
     </li>
   </ul>
@@ -69,10 +69,16 @@ title: Annika Law Jie Yu
 
   </ul>
 
-  <h3>
-    Community Detection in Global Pop Artists Collaboration Networks |
-    <span style="font-size: 0.9em; font-style: italic;"> Python, NetworkX, Louvain-algorithm, Matplotlib, Pandas</span>
-  </h3>
+    <h3 style="margin-bottom: 0.2em;">Community Detection in Global Pop Artists Collaboration Networks</h3>
+      <div style="font-family: 'Courier New', Courier, monospace; 
+            background-color: #f6f8fa; 
+            padding: 0.1em 0.4em; 
+            border-radius: 6px; 
+            font-size: 0.9em; 
+            display: inline-block; 
+            margin-top: 0;">
+      > python, networkx, pandas, louvain-algorithm, matplotlib
+    </div>
   <ul>
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
