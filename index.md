@@ -35,8 +35,8 @@ title: Annika Law Jie Yu
             margin-top: 0;">
       > python, networkx, pandas, louvain-algorithm
     </div>
-
   <ul>
+    
     <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
     <li>Applied Louvain algorithm to detect research communities and computed network metrics including density, connectivity, and degree distribution</li>
     <li>Identified top authors by centrality measures and analyzed their influence within the network</li>
@@ -68,8 +68,7 @@ title: Annika Law Jie Yu
     </li>
   </ul>
 
-  <ul>
-    <h3 style="margin-bottom: 0.2em;">Community Detection in Global Pop Artists Collaboration Networks</h3>
+  <h3 style="margin-bottom: 0.2em;">Community Detection in Global Pop Artists Collaboration Networks</h3>
       <div style="font-family: 'Courier New', Courier, monospace; 
             background-color: #f6f8fa; 
             padding: 0.1em 0.4em; 
