@@ -66,9 +66,9 @@ title: Annika Law Jie Yu
         View Notebook
       </a>
     </li>
-
   </ul>
 
+  <ul>
     <h3 style="margin-bottom: 0.2em;">Community Detection in Global Pop Artists Collaboration Networks</h3>
       <div style="font-family: 'Courier New', Courier, monospace; 
             background-color: #f6f8fa; 
@@ -80,6 +80,7 @@ title: Annika Law Jie Yu
       > python, networkx, pandas, louvain-algorithm, matplotlib
     </div>
   <ul>
+    
     <li>Constructed yearly weighted collaboration networks (2017–2019) from artist co-occurrence datasets</li>
     <li>Created comparative network visualizations across the years, with node size reflecting degree and color representing community</li>
     <li>Built a higher-level community-to-community collaboration graph highlighting core clusters</li>
