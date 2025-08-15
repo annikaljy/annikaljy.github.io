@@ -23,8 +23,9 @@ title: Annika Law Jie Yu
   <!-- Right column: main content -->
 <div style="flex: 3;">
   <!-- Projects -->
-  <h1 style="text-decoration: underline;">Projects</h1>
-
+  <h1 style="text-decoration: underline; font-family: 'Courier New', Courier, monospace;">
+    Projects
+    
   <h3>
     Computational Social Scientists Network Analysis |
     <span style="font-size: 0.9em; font-style: italic;"> Python, NetworkX, Pandas, Louvain-algorithm</span>
