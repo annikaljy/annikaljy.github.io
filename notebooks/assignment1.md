@@ -1,6 +1,7 @@
 ### Code for Assignment 1 of Course 02467 at DTU
 #### Computational Social Scientists Network Analysis
 
+```python
 import pandas as pd
 import re
 import networkx as nx
