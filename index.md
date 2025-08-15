@@ -76,6 +76,7 @@ title: Annika Law Jie Yu
       </a>
     </li>
   </ul>
+  <img src="/assets/artist.png.jpg" alt="Visualization" style="width:100%; max-width:600px; display:block; margin-top: 10px; border-radius:6px;">
 
 
 </div>
