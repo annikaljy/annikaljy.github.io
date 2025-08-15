@@ -26,9 +26,12 @@ title: Annika Law Jie Yu
   <!-- Right column: main content -->
 <div style="flex: 3;">
   <h3>
-    Computational Social Scientists Network Analysis |
-    <span style="font-size: 0.9em; font-style: italic;"> Python, NetworkX, Pandas, Louvain-algorithm</span>
-  </h3>
+  Computational Social Scientists Network Analysis |
+  <span style="font-family: 'Courier New', Courier, monospace; background-color: #f6f8fa; padding: 0.1em 0.4em; border-radius: 6px;">
+    Python, NetworkX, Pandas, Louvain-algorithm
+  </span>
+</h3>
+
   <ul>
     <li>Built a weighted, undirected collaboration network and enriched nodes with metadata</li>
     <li>Applied Louvain algorithm to detect research communities and computed network metrics including density, connectivity, and degree distribution</li>
