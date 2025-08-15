@@ -33,7 +33,7 @@ title: Annika Law Jie Yu
             font-size: 0.9em; 
             display: inline-block; 
             margin-top: 0.2em;">
-    python, networkX, pandas, louvain-algorithm
+    > python, networkX, pandas, louvain-algorithm
 </div>
 
 
