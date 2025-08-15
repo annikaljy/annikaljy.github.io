@@ -3,6 +3,9 @@ layout: default
 title: Annika Law Jie Yu
 ---
 
+<h1 style="font-family: 'Courier New', Courier, monospace; background-color: #f6f8fa; padding: 0.2em 0.4em; border-radius: 6px; text-align: left;">
+  &gt; projects
+</h1>
 
 <div style="display: flex; gap: 40px; align-items: flex-start;">
   <!-- Left column: photo + contact -->
