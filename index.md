@@ -16,7 +16,7 @@ title: Annika Law Jie Yu
     <h2>Skills</h2>
     <p>Python, R, Java, SQL</p>
     <h2>Technologies</h2>
-    <p>PowerBI, Tableau, Microsoft Suite, Adobe Suite</p>
+    <p>PowerBI, Tableau, Streamlit, Docker, Linux, Microsoft Suite, Adobe Suite</p>
     <h2>Education</h2>
     <p> - B.Sc (Hons), Data Science and Analytics — National University of Singapore (2022-2026)</p>
     <p> - Spring Exchange Programme — Technical University of Denmark, took M.Sc level courses (2025)  </p>
@@ -89,6 +89,28 @@ title: Annika Law Jie Yu
   </ul>
   
   <img src="/assets/artist.png" alt="Visualization" style="width:100%; max-width:600px; display:block; margin-top: 10px; border-radius:6px;">
+
+   <h3 style="margin-bottom: 0.2em;">Sentimental Analysis in Taylor Swift’s Lyrics</h3>
+      <div style="font-family: 'Courier New', Courier, monospace; 
+            background-color: #f6f8fa; 
+            padding: 0.1em 0.4em; 
+            border-radius: 6px; 
+            font-size: 0.9em; 
+            display: inline-block; 
+            margin-top: 0;">
+      > python, pandas, matplotlib, seaborn
+    </div>
+  <ul>
+    <li>Collected and cleaned 200+ Taylor Swift song lyrics across multiple albums for analysis using Pandas</li>
+    <li>Applied natural language processing (NLP) techniques including tokenization, lemmatization, and stopword removal</li>
+    <li>Conducted sentiment analysis to compare emotional tone across albums and evolution of lyrical themes</li>
+    <li>Visualized key patterns in lyrical content and sentiment progression using matplotlib and seaborn</li>
+    <li>
+      <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/dsa2101/DSA2101 Project_ Taylor Swift.pdf.ipynb" target="_blank">
+        View Report
+      </a>
+    </li>
+  </ul>
 
 
 </div>
