@@ -106,7 +106,7 @@ title: Annika Law Jie Yu
     <li>Conducted sentiment analysis to compare emotional tone across albums and evolution of lyrical themes</li>
     <li>Visualized key patterns in lyrical content and sentiment progression using matplotlib and seaborn</li>
     <li>
-      <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/dsa2101/DSA2101 Project_ Taylor Swift.pdf.ipynb" target="_blank">
+      <a href="https://github.com/annikaljy/annikaljy.github.io/blob/main/notebooks/dsa2101/DSA2101 Project_ Taylor Swift.pdf" target="_blank">
         View Report
       </a>
     </li>
