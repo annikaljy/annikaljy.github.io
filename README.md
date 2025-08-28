@@ -33,6 +33,14 @@ sub-communities
 representing community
 - Built a higher level community-to-community collaboration graph highlighting core clusters
 
+### Sentimental Analysis in Taylor Swift’s Lyrics
+#### Python, Pandas, Matplotlib, Seaborn
+- Collected and cleaned 200+ Taylor Swift song lyrics across multiple albums for analysis using Pandas
+- Applied natural language processing (NLP) techniques including tokenization, lemmatization, and stopword removal
+- Conducted sentiment analysis to compare emotional tone across albums and track evolution of lyrical themes over time
+- Visualized key patterns in lyrical content and sentiment progression using matplotlib and seaborn
+
+
 ## Work Experience
 **Regional Data Analyst Intern | Shiseido**
 _Apr 2024 - Aug 2024_
