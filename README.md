@@ -37,7 +37,7 @@ representing community
 #### Python, Pandas, Matplotlib, Seaborn
 - Collected and cleaned 200+ Taylor Swift song lyrics across multiple albums for analysis using Pandas
 - Applied natural language processing (NLP) techniques including tokenization, lemmatization, and stopword removal
-- Conducted sentiment analysis to compare emotional tone across albums and track evolution of lyrical themes over time
+- Conducted sentiment analysis to compare emotional tone across albums and evolution of lyrical themes
 - Visualized key patterns in lyrical content and sentiment progression using matplotlib and seaborn
 
 
