@@ -1,5 +1,5 @@
-### Technical Skills: Python, R, Java, SQL
-### Technologies: PowerBI, Tableau, Microsoft Suite, Adobe Suite
+### Technical Skills: Python, R, Java, SQL  
+### Technologies: PowerBI, Tableau, Streamlit, Docker, Linux, Microsoft Suite, Adobe Suite 
 
 ## Education
 - **B.Sc (Hons), Data Science and Analytics**  
